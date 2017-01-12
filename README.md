@@ -1,1 +1,1 @@
-# Multi-Stream-CNNs-for-Video-Analysis
+# Multi-Stream CNNs for Video Analysis
