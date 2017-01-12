@@ -14,9 +14,9 @@ For more information, see these papers:
 
 ***
 
-Here are the steps to run the project on CCV dataset:
+Here are the steps to run the project on video dataset:
 
-1. Get the YouTube data, remove broken videos and negative instances and finally create a pickle file of the dataset by running scripts from the utility_scripts folder
+1. Get the Video data, remove broken videos and negative instances and finally create a pickle file of the dataset by running scripts from the utility_scripts folder
 
 
 2. Temporal Stream (in the temporal folder):
